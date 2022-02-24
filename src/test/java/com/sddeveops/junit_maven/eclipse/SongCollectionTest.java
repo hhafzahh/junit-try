@@ -24,7 +24,7 @@ class SongCollectionTest {
 	private Song s4;
 	private final int SONG_COLLECTION_SIZE = 4;
 	private final int SONG_CAPACITY_LIMIT = 20;
-	//if you want to run once per class - > like creating a database connection or start up of server then you might want to annotate with at before all
+	//if you want to runn once per class - > like creating a database connection or start up of server then you might want to annotate with at before all
 	/**
 	 * @throws java.lang.Exception
 	 */
